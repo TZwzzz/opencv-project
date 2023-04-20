@@ -1,0 +1,3 @@
+/home/wilson/OpenCV/opencv-3.4.12/my_project/faceDetect_video/build/CMakeFiles/rebuild_cache.dir
+/home/wilson/OpenCV/opencv-3.4.12/my_project/faceDetect_video/build/CMakeFiles/faceDetect_video.dir
+/home/wilson/OpenCV/opencv-3.4.12/my_project/faceDetect_video/build/CMakeFiles/edit_cache.dir

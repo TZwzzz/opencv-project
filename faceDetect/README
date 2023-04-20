@@ -1,0 +1,8 @@
+face detect for picture(jpg/png)
+See example of main
+Usage:
+cd build
+rm -rf *
+cmake ..
+make
+./faceDetect ../faces.jpg
